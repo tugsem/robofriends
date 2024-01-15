@@ -11,7 +11,8 @@
 - Tachyons
 
 ## Live Demo
-coming soon
+
+[Live Link](https://stunning-salmiakki-34414f.netlify.app/)
 
 
 ## Getting Started
